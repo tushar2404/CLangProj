@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561449769 source:f:\code blocks\sinefunction_rec\main.c
+	<stdio.h>
+	<math.h>
+

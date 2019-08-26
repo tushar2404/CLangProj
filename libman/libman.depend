@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1563728442 source:f:\code blocks\libman\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+

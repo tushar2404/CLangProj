@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552816023 source:f:\code blocks\nat_log\main.c
+	<stdio.h>
+	<math.h>
+

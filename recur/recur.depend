@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563905356 source:f:\code blocks\recur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

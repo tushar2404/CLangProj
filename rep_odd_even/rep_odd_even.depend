@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1553615732 source:f:\code blocks\rep_odd_even\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566723921 source:f:\code blocks\substrinfgmatch\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

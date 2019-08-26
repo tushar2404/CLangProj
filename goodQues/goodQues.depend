@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566189369 source:f:\code blocks\goodques\main.c
+	<stdio.h>
+	<stdlib.h>
+

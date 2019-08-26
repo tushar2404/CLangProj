@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1563206270 source:f:\code blocks\hw\transactions.cpp
+	"Transactions.h"
+
+1563207204 f:\code blocks\hw\transactions.h
+	<string>
+
+1563207766 source:f:\code blocks\hw\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	"g1.h"
+
+1563207766 f:\code blocks\hw\g1.h
+	<vector>
+	<string>
+	"Transactions.h"
+
+1563207592 source:f:\code blocks\hw\account.cpp
+
+1563207766 source:f:\code blocks\hw\account1.cpp
+	"g1.h"
+

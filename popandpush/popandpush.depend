@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563818514 source:f:\code blocks\popandpush\main.c
+	<stdio.h>
+	<stdlib.h>
+

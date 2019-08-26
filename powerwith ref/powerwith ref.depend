@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553836081 source:f:\code blocks\powerwith ref\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566791357 source:f:\code blocks\stringquestions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

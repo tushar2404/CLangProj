@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552035551 source:f:\code blocks\jjj\main.cpp
+	<iostream>
+	<conio.h>
+
